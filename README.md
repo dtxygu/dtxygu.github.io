@@ -1,1 +1,1 @@
-# dtxygu.github.io
+这是一个共享的资源库。
